@@ -21,7 +21,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 @RestController
 public class MockupService {
 	
-	
 	Logger LOG = Logger.getLogger(MockupService.class);
 
 	@Autowired
